@@ -1,4 +1,4 @@
-module github.com/ash0tych/GithubExamForkingRepo
+module repo-for-cloning
 
 go 1.17
 
